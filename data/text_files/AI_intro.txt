@@ -1,0 +1,10 @@
+
+Artificial Intelligence (AI) is transforming industries by enabling machines to perform tasks that typically require human intelligence. These tasks include language understanding, image recognition, decision-making, and problem-solving.
+
+Machine Learning (ML), a subset of AI, allows systems to learn patterns from data and improve over time without being explicitly programmed. Common applications include recommendation systems, fraud detection, and predictive analytics.
+
+Natural Language Processing (NLP) focuses on helping computers understand and generate human language. Popular NLP applications include chatbots, translation systems, and virtual assistants.
+
+Retrieval-Augmented Generation (RAG) combines information retrieval with large language models. Instead of relying only on pre-trained knowledge, a RAG system searches relevant documents and uses them to generate more accurate responses.
+
+For example, a company can build a chatbot that answers questions using internal PDF files, policies, manuals, and reports. This improves accuracy, trustworthiness, and domain-specific knowledge.
