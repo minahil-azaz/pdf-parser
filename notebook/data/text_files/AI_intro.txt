@@ -1,0 +1,7 @@
+Artificial Intelligence (AI) is transforming industries by enabling machines to perform tasks that typically require human intelligence.
+
+Machine Learning (ML), a subset of AI, allows systems to learn patterns from data and improve over time without being explicitly programmed.
+
+Natural Language Processing (NLP) focuses on helping computers understand and generate human language.
+
+Retrieval-Augmented Generation (RAG) combines retrieval with large language models for better responses.

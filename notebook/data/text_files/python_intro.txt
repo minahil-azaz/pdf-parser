@@ -1,0 +1,7 @@
+Python is a powerful and beginner-friendly programming language.
+
+It is widely used in web development, data science, machine learning, automation, and artificial intelligence.
+
+Python has simple syntax, making it easy to learn and use.
+
+Popular Python libraries include NumPy, Pandas, TensorFlow, and Flask.
